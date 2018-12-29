@@ -1,0 +1,10 @@
+READ ME
+=======
+
+train.py - Python script for training the CNN model
+augment.py - Python script for data augmentation
+dataSet - The folder containing the raw dataset.
+
+Note: augment.py is just a model python script provided for augmentation. Actual augmentation was done randomly on random images to create a balanced data set of size over 20,000.
+
+In case of doubts in code, please email to vinu.sankar@iitgn.ac.in
